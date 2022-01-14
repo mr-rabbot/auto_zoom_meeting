@@ -2,17 +2,17 @@ import pyautogui as p
 import time
 
 # Meeting id number
-MEETING_ID = '123456789'
+MEETING_ID = '64572018925'
 
 # Name used to join the meeting
 # Set to None if you can use your default Name
 # Otherwise, change the value below
-MY_NAME = 'YALU'
+MY_NAME = 'None'
 
 # Password used to join the meeting
 # Set to None if the meeting doesn't require a password
 # Otherwise, change the value below
-PASSWORD = 'password'
+PASSWORD = '263879'
 
 # Open menu
 p.press('win', interval=0.5)
